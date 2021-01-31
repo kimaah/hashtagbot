@@ -1,0 +1,17 @@
+{
+  "logo": "./images/logo.png",
+  "version": "2.0.1",
+  "name": "#Bot",
+  "prefix": "?",
+  "bottoken": "Nzc0OTgzODE3NjI2MjU1Mzcx.X6ft7A.x-xqajTjx2un7oxvsygva-8c_10",
+  "api": "AIzaSyBubs5koIjdNiT73XRqmgnacjSOblB1cwY",
+  "chid": "UCwoDpwhKfr5X2PNWG-VzfKg",
+  "serverchid": "784145437762387999",
+  "CHANNEL": "793756353176272916",
+  "SERVER": "783989322948673537",
+  "LIVE": "https://www.youtube.com/watch?v=xoj59abqjWU",
+  "googleapi": "AIzaSyBhFsQinz-R3pjxPjjbYwj7e4H_-agkVWw",
+  "dcEmbed" : {
+      "color": "00A2A2"
+  }
+}

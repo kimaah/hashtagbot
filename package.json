@@ -1,0 +1,25 @@
+{
+  "name": "hastagbot",
+  "version": "3.0.1",
+  "description": "The hastag bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Kima Gamer - Infinity Team",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "distube": "^2.8.8",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "^0.0.4",
+    "map": "^1.0.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.4",
+    "opusscript": "^0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "slappey": "^2.0.0",
+    "youtube-notification": "^1.1.0",
+    "ytdl-core": "^4.0.5"
+  }
+}
