@@ -1,4 +1,4 @@
-# hashtagbot
+# HashtagBot
 copyright: KimaDev - 2021
 All rights reserved.
 
